@@ -1,5 +1,5 @@
 {
-    "name": "slim/views",
+    "name": "salesfusion-dev/slim-views",
     "type": "library",
     "description": "Smarty and Twig View Parser package for the Slim Framework",
     "keywords": ["templating", "extensions", "slimphp"],
@@ -18,7 +18,7 @@
         }
     ],
     "require": {
-        "slim/slim": ">=2.4.0",
+        "salesfusion-dev/slim": ">=2.6.0",
         "php": ">=5.3.0"
     },
     "suggest": {
